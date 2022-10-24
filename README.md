@@ -6,4 +6,4 @@
 # Visitors :
 
 
-![Visitor Count](https://profile-counter.glitch.me/RED-DEMON-ANNOS/OGRE/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/RED-DEMON-ANNOS/count.svg)
