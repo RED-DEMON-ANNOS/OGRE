@@ -1,4 +1,4 @@
-###OGRE
+### [`OGRE`]
 ### [`MY SELF`]
 ```
 "Name": "Annos",
@@ -12,7 +12,6 @@
   "- Black19114"
   "- And My Friends"
 ```
-___
 
 ## For Termux
 ```
@@ -48,13 +47,10 @@ python OGRE.py
 
 ![Visitor Count](https://profile-counter.glitch.me/RED-DEMON-ANNOS/count.svg)
 
+#### MY SOCIAL MEDIA
 
 <a href="https://github.com/RED-DEMON-ANNOS/followers">
-<img title="Followers" src="https://img.shields.io/github/followers/RED-DEMON-ANNOS?label=Followers&color=red&style=flat-square"></a>
-
-
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=RED-DEMON-ANNOS/OGRE.visitor-badge&left_text=MyPageVisitors)
-#### MY SOCIAL MEDIA
+<img title="Followers" src="https://img.shields.io/github/followers/RED-DEMON-ANNOS?label=Followers&color=Black&style=flat-square"></a>
 
 [![](https://img.shields.io/badge/Github-green?logo=Github&logoColor=green&labelColor=red)](https://github.com/RED-DEMON-ANNOS) <br>
 [![](https://img.shields.io/badge/Facebook-green?logo=Facebook&logoColor=green&labelColor=red)](https://www.facebook.com/MR.ANNOS007) <br>
