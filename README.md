@@ -31,6 +31,8 @@ pip install bs4
 
 pip install rich
 
+rm -rf OGRE
+
 git clone https://github.com/RED-DEMON-ANNOS/OGRE.git
 
 cd OGRE
